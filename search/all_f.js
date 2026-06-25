@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['usage_0',['SIMPLE USAGE',['../md_README.html#autotoc_md3',1,'']]],
-  ['usage_20summary_1',['USAGE SUMMARY',['../index.html#usage',1,'']]],
-  ['usingquotes_2',['UsingQuotes',['../classCSimpleIniTempl.html#a26c10eb88b4fa9479da262b2968f81d7',1,'CSimpleIniTempl']]],
-  ['usingspaces_3',['UsingSpaces',['../classCSimpleIniTempl.html#a92203e0c21f8d71e5d1621a18ee0be50',1,'CSimpleIniTempl']]]
+  ['test_0',['Build and Test',['../md_README.html#autotoc_md4',1,'']]],
+  ['tkeyval_1',['TKeyVal',['../classCSimpleIniTempl.html#a568d70ad0c08d7a0f9ae5dae0b8372b9',1,'CSimpleIniTempl']]],
+  ['tnamesdepend_2',['TNamesDepend',['../classCSimpleIniTempl.html#a391b3f3751e06cd9e9de4fb16ac14342',1,'CSimpleIniTempl']]],
+  ['tsection_3',['TSection',['../classCSimpleIniTempl.html#a31bef7b63de3d584e9a42cd1b526ec76',1,'CSimpleIniTempl']]]
 ];
